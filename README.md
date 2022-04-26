@@ -7,5 +7,5 @@ LCtrl + RCtrl = Rebind trigger key <br />
 Shift + F6 = Kill program
 
 # Bugs
-•sometimes does not detect tigger key release <br />
+•sometimes does not detect trigger key release <br />
 •sometimes disables interactions with unfocused windows
